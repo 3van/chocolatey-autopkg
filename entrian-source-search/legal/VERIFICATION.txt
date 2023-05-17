@@ -1,0 +1,19 @@
+VERIFICATION
+
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+Packages can be verified as follows:
+
+1. Download installers from the offical distribution page (https://entrian.com/source-search/download.html)
+
+   latest: https://entrian.com/source-search/Entrian-Source-Search-1.8.4-Setup.exe
+
+2. You can use one of the following methods to obtain the SHA256 checksum: 20794051C3900D065C97221478438C0925AAC66BC7EAC2AFF636A801A9652CC6
+   - Use powershell function 'Get-FileHash'
+   - Use Chocolatey utility 'checksum.exe'
+
+   checksum: 20794051C3900D065C97221478438C0925AAC66BC7EAC2AFF636A801A9652CC6
+   type: sha256
+
+File 'License.txt' with license was obtained from extracting the installer package.
